@@ -1,6 +1,7 @@
 Addressbook Tutorial
 
 test1
+test2
 ====================
 
 This tutorial teaches you some of the basic concepts in [Vaadin Framework](https://vaadin.com). It is meant to be
